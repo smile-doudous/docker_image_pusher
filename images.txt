@@ -6,4 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #alpine
 #alpine:3.20.2
-ubuntu:24.04
+#ubuntu:24.04
+registry:2.8.3
+joxit/docker-registry-ui:2
